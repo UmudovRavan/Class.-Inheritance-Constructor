@@ -1,0 +1,14 @@
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.exe
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.deps.json
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.runtimeconfig.json
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.dll
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.pdb
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.AssemblyInfoInputs.cache
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.AssemblyInfo.cs
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.csproj.CoreCompileInputs.cache
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.dll
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\obj\Debug\net6.0\refint\OOPClass.dll
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.pdb
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.genruntimeconfig.cache
+C:\Users\Ravan\source\repos\OOPClass\OOPClass\obj\Debug\net6.0\ref\OOPClass.dll

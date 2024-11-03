@@ -1,0 +1,14 @@
+C:\Users\Ravan\source\repos\OOPClass\Recap\bin\Debug\net6.0\Recap.exe
+C:\Users\Ravan\source\repos\OOPClass\Recap\bin\Debug\net6.0\Recap.deps.json
+C:\Users\Ravan\source\repos\OOPClass\Recap\bin\Debug\net6.0\Recap.runtimeconfig.json
+C:\Users\Ravan\source\repos\OOPClass\Recap\bin\Debug\net6.0\Recap.dll
+C:\Users\Ravan\source\repos\OOPClass\Recap\bin\Debug\net6.0\Recap.pdb
+C:\Users\Ravan\source\repos\OOPClass\Recap\obj\Debug\net6.0\Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravan\source\repos\OOPClass\Recap\obj\Debug\net6.0\Recap.AssemblyInfoInputs.cache
+C:\Users\Ravan\source\repos\OOPClass\Recap\obj\Debug\net6.0\Recap.AssemblyInfo.cs
+C:\Users\Ravan\source\repos\OOPClass\Recap\obj\Debug\net6.0\Recap.csproj.CoreCompileInputs.cache
+C:\Users\Ravan\source\repos\OOPClass\Recap\obj\Debug\net6.0\Recap.dll
+C:\Users\Ravan\source\repos\OOPClass\Recap\obj\Debug\net6.0\refint\Recap.dll
+C:\Users\Ravan\source\repos\OOPClass\Recap\obj\Debug\net6.0\Recap.pdb
+C:\Users\Ravan\source\repos\OOPClass\Recap\obj\Debug\net6.0\Recap.genruntimeconfig.cache
+C:\Users\Ravan\source\repos\OOPClass\Recap\obj\Debug\net6.0\ref\Recap.dll
